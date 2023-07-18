@@ -1,5 +1,9 @@
-import Logo from '../assets/images/logo.svg';
+import LogoSVG from '../assets/images/logo.svg';
+import PeoplePNG from "../assets/images/people.png";
+import AIHeadPNG from "../assets/images/ai_head.png";
 
 export {
-  Logo,
+  LogoSVG,
+  PeoplePNG ,
+  AIHeadPNG
 };
